@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GyroTorch</string>
+    <string name="start">Start!</string>
+    <string name="statusON">Flashlight ON!</string>
+    <string name="statusOFF">Flashlight OFF!</string>
+</resources>
